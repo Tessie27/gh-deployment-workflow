@@ -6,7 +6,7 @@ A minimal CI/CD demonstration project that automatically deploys a static websit
 
 ## 🚀 Live Site
 
-> `hhttps://github.com/Tessie27/gh-deployment-workflow`
+> `https://github.com/Tessie27/gh-deployment-workflow`
 
 ---
 
